@@ -1,0 +1,40 @@
+.header
+{
+	color: red;font-family: 'The Nautigal';letter-spacing: 20px;margin-top: 80px;
+}
+.header img{
+    width: 100px;
+    height: 110px;
+}
+
+body{
+    background-color: black;
+}
+.logo{
+    width: 80px;margin-top: 30px;border-radius: 40px;
+}
+
+.dark{
+    color: red;font-family: 'Splash', cursive;font-size: 45px;margin-top: 80px;
+}
+
+.gif{
+    width: 1600px;
+    height: 100px;
+}
+
+.login_div
+{
+	background: rgba(255,255,255,0.8);float: none;border-radius: 20px;
+}
+
+.room_page
+{
+	width: 80%;
+}
+
+.addroom{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: brown;
+
+}
