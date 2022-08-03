@@ -3,5 +3,11 @@ function login(){
  
     localStorage.setItem("user_name", user_name)
  
-    window.location="room2.html"
+    
+
+    var confirm = window.confirm("WARNING, do you really JOIN?")
+
+    if(confirm){
+        window.location="room2.html"
+    }
  }
